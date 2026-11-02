@@ -1,0 +1,6 @@
+{
+  "name": "CymbalMart Shopping Agent",
+  "description": "Party planner shopping agent for CymbalMart: Convert event intent into a curated, budget-conscious shopping list, refine constraints, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
